@@ -4,7 +4,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/Naveena-kemburu/virtualized-data-grid
 cd virtualized-data-grid
 ```
 
@@ -60,24 +60,3 @@ npm run dev
 3. Add/update tests
 4. Run tests: `npm test`
 5. Build: `npm run build`
-6. Submit PR with clear description
-
-## Performance Considerations
-
-- Always test with 25k+ rows
-- Check FPS in Chrome DevTools
-- Measure filter/sort times
-- Avoid unnecessary re-renders
-- Use virtualization for lists
-
-## Accessibility
-
-- Use semantic HTML
-- Add ARIA labels
-- Ensure keyboard navigation
-- Test with screen readers
-- Maintain color contrast
-
-## Questions?
-
-Open an issue for discussion before major changes.
