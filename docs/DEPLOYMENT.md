@@ -1,6 +1,6 @@
 # Deployment Guide
 
-## Docker Deployment (Recommended)
+## Docker Deployment 
 
 ### Build and Run
 
