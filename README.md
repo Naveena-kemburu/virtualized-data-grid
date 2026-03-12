@@ -337,10 +337,7 @@ NODE_ENV=production
 
 - **[README.md](README.md)** - Main documentation (this file)
 - **[QUICKSTART.md](QUICKSTART.md)** - Fast-track setup guide
-- **[docs/TESTING.md](docs/TESTING.md)** - Testing guide
-- **[docs/DEPLOYMENT.md](docs/DEPLOYMENT.md)** - Deployment instructions
-- **[docs/PERFORMANCE.md](docs/PERFORMANCE.md)** - Performance optimization details
-- **[CONTRIBUTING.md](CONTRIBUTING.md)** - Development guidelines
+
 
 ## Screenshots
 <img width="800" height="600" alt="DATAGRID1" src="https://github.com/user-attachments/assets/67a7a537-6d45-4332-8262-a9dc083d3058" />
