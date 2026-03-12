@@ -345,3 +345,12 @@ NODE_ENV=production
 - **[docs/DEPLOYMENT.md](docs/DEPLOYMENT.md)** - Deployment instructions
 - **[docs/PERFORMANCE.md](docs/PERFORMANCE.md)** - Performance optimization details
 - **[CONTRIBUTING.md](CONTRIBUTING.md)** - Development guidelines
+
+## Screenshots
+<img width="800" height="600" alt="DATAGRID1" src="https://github.com/user-attachments/assets/67a7a537-6d45-4332-8262-a9dc083d3058" />
+
+<img width="800" height="600" alt="DATAGRID2" src="https://github.com/user-attachments/assets/4a91b3c0-7b82-403e-ac38-621b523b7a3b" />
+
+<img width="800" height="600" alt="DATAGRID3" src="https://github.com/user-attachments/assets/bd07beb5-b928-4f48-a0da-4f65f43f04d3" />
+
+
