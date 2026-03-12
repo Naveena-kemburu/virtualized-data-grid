@@ -338,6 +338,9 @@ NODE_ENV=production
 - **[README.md](README.md)** - Main documentation (this file)
 - **[QUICKSTART.md](QUICKSTART.md)** - Fast-track setup guide
 
+## Demo video
+https://drive.google.com/file/d/14JfvzpdsGTHuRH-gDmfVtjhWW-ocggAu/view?usp=sharing
+
 
 ## Screenshots
 <img width="800" height="600" alt="DATAGRID1" src="https://github.com/user-attachments/assets/67a7a537-6d45-4332-8262-a9dc083d3058" />
