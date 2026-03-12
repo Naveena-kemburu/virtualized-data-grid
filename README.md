@@ -337,7 +337,6 @@ NODE_ENV=production
 
 - **[README.md](README.md)** - Main documentation (this file)
 - **[QUICKSTART.md](QUICKSTART.md)** - Fast-track setup guide
-- **[SUBMISSION_SUMMARY.md](SUBMISSION_SUMMARY.md)** - Submission overview
 - **[docs/TESTING.md](docs/TESTING.md)** - Testing guide
 - **[docs/DEPLOYMENT.md](docs/DEPLOYMENT.md)** - Deployment instructions
 - **[docs/PERFORMANCE.md](docs/PERFORMANCE.md)** - Performance optimization details
