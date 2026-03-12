@@ -109,7 +109,3 @@ npm install
 - Filters are debounced by 300ms
 - All operations use immutable data patterns
 - Components are memoized to prevent unnecessary re-renders
-
-## Need Help?
-
-Check the full [README.md](README.md) for detailed documentation.
