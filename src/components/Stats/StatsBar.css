@@ -1,0 +1,39 @@
+.stats-bar {
+  display: flex;
+  gap: 24px;
+  padding: 16px 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.stat-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.stat-label {
+  color: #6c757d;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.stat-value {
+  color: #212529;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.stat-success {
+  color: #28a745;
+}
+
+@media (max-width: 768px) {
+  .stats-bar {
+    flex-direction: column;
+    gap: 12px;
+  }
+}
